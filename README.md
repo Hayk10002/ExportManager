@@ -11,7 +11,7 @@ cmake --build build
 
 ## Usage
 
-Modify the Data in the main.cpp and the file name to be saved to.
+Modify the Data in the `main.cpp` and the file name to be saved to.
 Build the executable like mentioned above.
 Run the executable:
 
